@@ -6,5 +6,5 @@ Repositorio del curso DevOps
 
 	Tabular
 > ejemplo
-** Negrita **
+**Negrita**
 
